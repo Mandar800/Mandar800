@@ -1,4 +1,4 @@
-### Hi there I'm Mandar 👋
+## Hi there I'm Mandar 👋
 
 <!--
 **Mandar800/Mandar800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,6 +9,9 @@
 - 💬 Ask me about Android Development, Computer Vision, Competitive Coding
 - 📫 How to reach me: [Linkedin/Mandar800](https://www.linkedin.com/in/mandar800/)
 - ⚡ Fun fact: I still play Video Games  
+
+
+### Show some ❤️ by starring some of the repositories!
 
 ### Connect with me:
 
