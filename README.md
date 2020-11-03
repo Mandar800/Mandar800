@@ -8,7 +8,7 @@
 - 🌱 2020 Goals - To reach 3 Star on CodeChef & solve 300 Problems on LeetCode
 - 💬 Ask me about Android Development, Computer Vision, Competitive Coding
 - 📫 How to reach me: [Linkedin/Mandar800](https://www.linkedin.com/in/mandar800/)
-- ⚡ Fun fact: I still play Video Games  
+- ⚡ Fun fact: I Still Play Video Games  
 
 
 ### Show some ❤️ by starring some of the repositories!
