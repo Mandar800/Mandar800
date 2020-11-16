@@ -4,7 +4,7 @@
 **Mandar800/Mandar800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Android Development Project, Computer Vision Project
+- 🔭 I’m currently working on Game Development Project
 - 🌱 2020 Goals - To reach 3 Star on CodeChef & solve 300 Problems on LeetCode
 - 💬 Ask me about Android Development, Computer Vision, Competitive Coding
 - 📫 How to reach me: [Linkedin/Mandar800](https://www.linkedin.com/in/mandar800/)
